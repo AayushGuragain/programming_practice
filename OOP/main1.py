@@ -11,3 +11,6 @@ print(type(item1.name))
 print(type(item1.price))
 print(type(item1.quantity))
 print(type(item1.price_total))
+
+random_string = 'OOP' #here, instance of an string was grabbed and named random_string
+print(random_string.upper()) #the method of that string class named upper was executed.
