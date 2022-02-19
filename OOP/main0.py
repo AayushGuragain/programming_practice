@@ -1,3 +1,6 @@
+'''
+No class or OOP.
+'''
 item1 = 'Phone'
 item1_price = 100
 item1_quantity = 5

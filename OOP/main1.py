@@ -1,3 +1,6 @@
+'''
+Idea of class and OOP.
+'''
 class Item:
     pass
 item1 = Item()
